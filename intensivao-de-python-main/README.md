@@ -2,8 +2,6 @@
 
 # Projetos
 
-
-# 
 </div>
 <div>
    <h3>Automatização de processos #1</h3>
