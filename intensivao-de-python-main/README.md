@@ -14,6 +14,6 @@
 <section>
   <div>
       <p>IDE USADA</p>
-     <img src="https://i.ibb.co/VvHCbPg/1-k-Ig3-dwee-DFVGCQBUNWc-Fw.png"  width="80" height="50" >
+     <img src="https://i.ibb.co/VvHCbPg/1-k-Ig3-dwee-DFVGCQBUNWc-Fw.png" height="50" >
    </div>
 </section>
